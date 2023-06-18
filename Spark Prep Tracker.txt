@@ -1,0 +1,7 @@
+Spark Prep Tracker
+
+Link:
+https://sparkbyexamples.com/pyspark-rdd/?expand_article=1
+
+Topic:
+Create empty RDD using sparkContext.emptyRDD
