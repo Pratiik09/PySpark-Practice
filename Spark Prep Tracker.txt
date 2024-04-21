@@ -1,6 +1,0 @@
-Spark Prep Tracker
-
-Link:
-https://sparkbyexamples.com/pyspark/pyspark-rdd-transformations/
-
-Topic:
